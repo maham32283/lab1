@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>maham website</title>
+</head>
+<body style="background-image:url(image`4`.webp) ;background-repeat:no-repeat;background-size: 100%,100%;">
+    <a href="https://www.google.com/search?q=pizza&rlz=1C1SQJL_enPK1011PK1011&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiumr3xz-H4AhUo7rsIHTlmAc8Q_AUoAXoECAMQAw&biw=1920&bih=912&dpr=1">google</a>
+  <i><h1
+   style="color:BLACK ;">THIN</h1></i>
+  <i><h1 style="color:BLACK ;"
+   >CRUST PIZZA
+   </h1></i>
+      
+
+   <a
+   style="color:blue ;"
+   href="index.html">home</a>
+   <br>
+   <a 
+   style="color:blue ;"
+   href="menu.html">menu</a>
+   <br>
+   <a
+   style="color:blue ;"
+   href="menu.html">menu</a>
+   <br>
+   
+   <a
+   style="color:blue ;"
+    href="about.html">about</a>
+    <br>
+
+</body>
+</html>
